@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip uninstall kagglesdk -y -q)",
+      "PowerShell(pip install kagglesdk==0.1.25 -q)"
+    ]
+  }
+}
